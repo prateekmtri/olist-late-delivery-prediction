@@ -1,0 +1,8 @@
+.venv/
+data/raw/*
+data/processed/*
+mlruns/
+.env
+kaggle.json
+.ipynb_checkpoints/
+__pycache__/
