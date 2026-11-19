@@ -6,3 +6,5 @@ mlruns/
 kaggle.json
 .ipynb_checkpoints/
 __pycache__/
+!data/raw/.gitkeep
+!data/processed/.gitkeep
